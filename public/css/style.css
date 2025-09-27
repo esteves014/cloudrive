@@ -1,0 +1,19 @@
+/* NavBar */
+
+#img-logo {
+    height: 80px;
+}
+
+.navbar{
+    border-bottom: 10px solid #3FA9E7;
+}
+
+.nav-item{
+    border-bottom: 4px solid rgba(255, 255, 255, 0);
+    border-top: 4px solid rgba(255, 255, 255, 0);
+
+}
+
+.nav-item:hover{
+    border-bottom-color: #3FA9E7;
+}
